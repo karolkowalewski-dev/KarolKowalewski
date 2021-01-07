@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47" height="47" viewBox="0 0 47 47">
+  <defs>
+    <clipPath id="clip-aroowdown">
+      <rect width="47" height="47"/>
+    </clipPath>
+  </defs>
+  <g id="aroowdown" clip-path="url(#clip-aroowdown)">
+    <rect width="47" height="47" fill="#fff"/>
+    <path id="Path_618" data-name="Path 618" d="M4458.925-5338.424l18.038,18.038L4495-5338.424" transform="translate(-4453 5354.424)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
