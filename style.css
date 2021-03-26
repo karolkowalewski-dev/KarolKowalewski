@@ -51,11 +51,11 @@ h6 {
 }
 
 p {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 26px;
   margin: 0 0 20px;
   padding: 0;
-  color: #707070;
+  color: #686868;
 }
 
 a {
@@ -178,6 +178,13 @@ blockquote:before, blockquote:after {
 cite {
   font-style: normal;
   color: #151515;
+}
+
+.homepage {
+  display: flex;
+  justify-content: center;
+  
+
 }
 
 :focus {
@@ -514,7 +521,7 @@ Contents
 
 .m-t-75 {
   margin-top: 180px;
-  margin-bottom: 180px;
+  margin-bottom: 120px;
 }
 
 .m-t-80 {
@@ -1755,6 +1762,8 @@ Portfolio Details
   font-weight: 900;
   margin-bottom: 2px;
   margin-top: 80px;
+
+  
 }
 .single-portfolio .portfolio .entry-header .description {
   font-size: 20px;
@@ -1766,12 +1775,14 @@ Portfolio Details
   padding: 0;
 }
 .single-portfolio .portfolio .entry-header .entry-meta .meta-desc p {
-  font-size: 15px;
+  font-size: 18px;
   line-height: 25px;
   font-weight: 400;
   margin-bottom: 20px;
   width: 100%;
   max-width: 580px;
+  display: flex;
+  justify-content: center;
 }
 .single-portfolio .portfolio .entry-header .entry-meta .meta-desc p:last-child {
   margin-bottom: 0;
@@ -3301,11 +3312,14 @@ Heading
   font-size: 80px;
   line-height: 59px;
   font-weight: 900;
+  color: #292929;
 }
 .about-me {
-  color: #000;
+  color: #686868;
   line-height: 1.6;
   margin-bottom: 120px;
+  margin-left: 140px;
+  margin-right: 140px;
 }
 
 .heading-block h1.block-size-1.sub-size {
