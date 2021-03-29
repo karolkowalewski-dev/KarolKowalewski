@@ -933,7 +933,7 @@ Footer
   display: inline-block;
 }
 .site-footer:not(.centered) {
-  border-top: 1px solid rgba(175, 175, 175, 0.2);
+  /* border-top: 1px solid rgba(175, 175, 175, 0.2); */
 }
 .site-footer:not(.centered) .social-links-menu li {
   margin-left: 12px;
