@@ -3336,14 +3336,23 @@ Heading
   line-height: 54px;
 }
 @media (max-width: 767px) {
+  .about-me {
+    margin-left: 12px;
+    margin-right: 12px;
+
+  }
+}
+
+@media (max-width: 767px) {
   .heading-block h1.block-size-1.sub-size {
     line-height: 44px;
   }
 }
 @media (max-width: 767px) {
   .heading-block h1.block-size-1 {
-    font-size: 34px;
+    font-size: 44px;
     line-height: 48px;
+    padding-top: 120px;
   }
 }
 .heading-block h1.block-size-2 {
