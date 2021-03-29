@@ -189,6 +189,10 @@ cite {
   font-size: 22px;
 }
 
+.gap {
+  margin-bottom: 120px;
+}
+
 :focus {
   outline: none;
 }
