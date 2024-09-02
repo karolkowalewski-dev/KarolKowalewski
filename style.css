@@ -20,7 +20,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 500;
+  font-family: "Dela Gothic One";
+    font-weight: 500;
   color: #151515;
   clear: both;
   line-height: 1.4;
